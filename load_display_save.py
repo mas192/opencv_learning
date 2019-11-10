@@ -1,5 +1,6 @@
 import argparse
 import cv2
+import os
 
 ap = argparse.ArgumentParser()
 
@@ -8,8 +9,10 @@ ap.add_argument('-i', '--image', required=True,
                 help='Path to image')
 #path to save processed image
 
-ap.add_argument('-o','--image', required=True,
+'''ap.add_argument('-o','--output', required=True,
                 help='Saved image path')
+os.chdir()
+cv2.imwrite('Processed',)'''
 args = vars(ap.parse_args())
 
 image = cv2.imread(args['image'])
