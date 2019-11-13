@@ -1,0 +1,7 @@
+https://www.guru99.com/pytest-tutorial.html#1
+
+running a test by substring matching
+
+py.test -k method1 -v
+-k <expression> is used to represent the substring to match
+-v increases the verbosity

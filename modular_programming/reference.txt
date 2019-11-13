@@ -1,0 +1,3 @@
+https://www.python-course.eu/python3_modules_and_modular_programming.php
+https://opensource.com/article/19/7/get-modular-python-functions
+https://docs.python-guide.org/writing/structure/

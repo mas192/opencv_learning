@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b26005d2-f0bd-467a-a06d-ce83a72e109a" name="Default Changelist" comment="" />
+    <list default="true" id="b26005d2-f0bd-467a-a06d-ce83a72e109a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modular_programming/reference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_tutorial/reference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gcp.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +31,29 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/load_display_save.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="sharpestmind_project" is-module-sdk="true">
+        <envs>
+          <env key="TERM" value="xterm-color" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="sharpestmind_project" />
+        <option name="myEnvs">
+          <map>
+            <entry key="TERM" value="xterm-color" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.load_display_save">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="sharpestmind_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +95,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="TERM" value="xterm-color" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../sharpest_python/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -80,6 +111,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_sample1.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="sharpestmind_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="TERM" value="xterm-color" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../sharpest_python/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_tutorial" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.load_display_save" />
+      <item itemvalue="Python.test_sample1.py" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
