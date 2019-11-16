@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26005d2-f0bd-467a-a06d-ce83a72e109a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modular_programming/reference.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_tutorial/reference.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/translation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gcp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gcp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_display_save.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_display_save.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_tutorial/test_sample2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_tutorial/test_sample2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +28,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytest_tutorial/test_sample1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
