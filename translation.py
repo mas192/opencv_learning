@@ -34,5 +34,11 @@ def translate(image, x, y):
     return shifted
 
 '''
+
 shifted = imutils.translate(image, 0, 100)
+cv2.imshow('Shifted down', shifted)
+cv2.waitKey(0)
+
+shifted = imutils.translate(image, -50, -100)
+cv2.imshow('Shifted up and left', shifted)
 cv2.waitKey(0)
