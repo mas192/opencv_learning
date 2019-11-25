@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26005d2-f0bd-467a-a06d-ce83a72e109a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/translation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/translation.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/text_detection.py" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -60,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.translation">
+  <component name="RunManager" selected="Python.text_detection">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="sharpestmind_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="translation" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="text_detection" type="PythonConfigurationType" factoryName="Python">
       <module name="sharpestmind_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/translation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +195,7 @@
     <list>
       <item itemvalue="Python.getting_And_setting" />
       <item itemvalue="Python.drawing" />
-      <item itemvalue="Python.translation" />
+      <item itemvalue="Python.text_detection" />
       <item itemvalue="Python.load_display_save" />
       <item itemvalue="Python.test_sample1.py" />
     </list>
